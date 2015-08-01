@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84073C2F1B6A57EC00B00859 /* 11111.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 84073C2E1B6A57EC00B00859 /* 11111.m4a */; };
+		840B70E51B6B96A4007A05EE /* NgonLuaCaoNguyen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 840B70E41B6B96A4007A05EE /* NgonLuaCaoNguyen.mp3 */; };
 		8418F1E11B67E1AD008A8150 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8418F1E01B67E1AD008A8150 /* main.m */; };
 		8418F1E41B67E1AD008A8150 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8418F1E31B67E1AD008A8150 /* AppDelegate.m */; };
 		8418F1E71B67E1AD008A8150 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8418F1E61B67E1AD008A8150 /* ViewController.m */; };
@@ -14,6 +16,24 @@
 		8418F1EC1B67E1AD008A8150 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8418F1EB1B67E1AD008A8150 /* Images.xcassets */; };
 		8418F1EF1B67E1AD008A8150 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8418F1ED1B67E1AD008A8150 /* LaunchScreen.xib */; };
 		8418F1FB1B67E1AE008A8150 /* BurnFireTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8418F1FA1B67E1AE008A8150 /* BurnFireTests.m */; };
+		8418F2161B67E25C008A8150 /* campFire01.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2051B67E25C008A8150 /* campFire01.gif */; };
+		8418F2171B67E25C008A8150 /* campFire02.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2061B67E25C008A8150 /* campFire02.gif */; };
+		8418F2181B67E25C008A8150 /* campFire03.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2071B67E25C008A8150 /* campFire03.gif */; };
+		8418F2191B67E25C008A8150 /* campFire04.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2081B67E25C008A8150 /* campFire04.gif */; };
+		8418F21A1B67E25C008A8150 /* campFire05.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2091B67E25C008A8150 /* campFire05.gif */; };
+		8418F21B1B67E25C008A8150 /* campFire06.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F20A1B67E25C008A8150 /* campFire06.gif */; };
+		8418F21C1B67E25C008A8150 /* campFire07.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F20B1B67E25C008A8150 /* campFire07.gif */; };
+		8418F21D1B67E25C008A8150 /* campFire08.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F20C1B67E25C008A8150 /* campFire08.gif */; };
+		8418F21E1B67E25C008A8150 /* campFire09.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F20D1B67E25C008A8150 /* campFire09.gif */; };
+		8418F21F1B67E25C008A8150 /* campFire10.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F20E1B67E25C008A8150 /* campFire10.gif */; };
+		8418F2201B67E25C008A8150 /* campFire11.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F20F1B67E25C008A8150 /* campFire11.gif */; };
+		8418F2211B67E25C008A8150 /* campFire12.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2101B67E25C008A8150 /* campFire12.gif */; };
+		8418F2221B67E25C008A8150 /* campFire13.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2111B67E25C008A8150 /* campFire13.gif */; };
+		8418F2231B67E25C008A8150 /* campFire14.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2121B67E25C008A8150 /* campFire14.gif */; };
+		8418F2241B67E25C008A8150 /* campFire15.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2131B67E25C008A8150 /* campFire15.gif */; };
+		8418F2251B67E25C008A8150 /* campFire16.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2141B67E25C008A8150 /* campFire16.gif */; };
+		8418F2261B67E25C008A8150 /* campFire17.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8418F2151B67E25C008A8150 /* campFire17.gif */; };
+		8470CADF1B6B2B5800B9E526 /* campfire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8470CADE1B6B2B5800B9E526 /* campfire.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +47,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		84073C2E1B6A57EC00B00859 /* 11111.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 11111.m4a; sourceTree = "<group>"; };
+		840B70E41B6B96A4007A05EE /* NgonLuaCaoNguyen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = NgonLuaCaoNguyen.mp3; sourceTree = "<group>"; };
 		8418F1DB1B67E1AD008A8150 /* BurnFire.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BurnFire.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8418F1DF1B67E1AD008A8150 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8418F1E01B67E1AD008A8150 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +62,24 @@
 		8418F1F41B67E1AD008A8150 /* BurnFireTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BurnFireTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8418F1F91B67E1AE008A8150 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8418F1FA1B67E1AE008A8150 /* BurnFireTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BurnFireTests.m; sourceTree = "<group>"; };
+		8418F2051B67E25C008A8150 /* campFire01.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire01.gif; sourceTree = "<group>"; };
+		8418F2061B67E25C008A8150 /* campFire02.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire02.gif; sourceTree = "<group>"; };
+		8418F2071B67E25C008A8150 /* campFire03.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire03.gif; sourceTree = "<group>"; };
+		8418F2081B67E25C008A8150 /* campFire04.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire04.gif; sourceTree = "<group>"; };
+		8418F2091B67E25C008A8150 /* campFire05.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire05.gif; sourceTree = "<group>"; };
+		8418F20A1B67E25C008A8150 /* campFire06.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire06.gif; sourceTree = "<group>"; };
+		8418F20B1B67E25C008A8150 /* campFire07.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire07.gif; sourceTree = "<group>"; };
+		8418F20C1B67E25C008A8150 /* campFire08.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire08.gif; sourceTree = "<group>"; };
+		8418F20D1B67E25C008A8150 /* campFire09.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire09.gif; sourceTree = "<group>"; };
+		8418F20E1B67E25C008A8150 /* campFire10.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire10.gif; sourceTree = "<group>"; };
+		8418F20F1B67E25C008A8150 /* campFire11.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire11.gif; sourceTree = "<group>"; };
+		8418F2101B67E25C008A8150 /* campFire12.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire12.gif; sourceTree = "<group>"; };
+		8418F2111B67E25C008A8150 /* campFire13.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire13.gif; sourceTree = "<group>"; };
+		8418F2121B67E25C008A8150 /* campFire14.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire14.gif; sourceTree = "<group>"; };
+		8418F2131B67E25C008A8150 /* campFire15.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire15.gif; sourceTree = "<group>"; };
+		8418F2141B67E25C008A8150 /* campFire16.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire16.gif; sourceTree = "<group>"; };
+		8418F2151B67E25C008A8150 /* campFire17.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire17.gif; sourceTree = "<group>"; };
+		8470CADE1B6B2B5800B9E526 /* campfire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = campfire.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +121,9 @@
 		8418F1DD1B67E1AD008A8150 /* BurnFire */ = {
 			isa = PBXGroup;
 			children = (
+				840B70E41B6B96A4007A05EE /* NgonLuaCaoNguyen.mp3 */,
+				8470CADE1B6B2B5800B9E526 /* campfire.mp3 */,
+				84073C2E1B6A57EC00B00859 /* 11111.m4a */,
 				8418F1E21B67E1AD008A8150 /* AppDelegate.h */,
 				8418F1E31B67E1AD008A8150 /* AppDelegate.m */,
 				8418F1E51B67E1AD008A8150 /* ViewController.h */,
@@ -88,6 +131,7 @@
 				8418F1E81B67E1AD008A8150 /* Main.storyboard */,
 				8418F1EB1B67E1AD008A8150 /* Images.xcassets */,
 				8418F1ED1B67E1AD008A8150 /* LaunchScreen.xib */,
+				8418F2041B67E218008A8150 /* FireImage */,
 				8418F1DE1B67E1AD008A8150 /* Supporting Files */,
 			);
 			path = BurnFire;
@@ -117,6 +161,30 @@
 				8418F1F91B67E1AE008A8150 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8418F2041B67E218008A8150 /* FireImage */ = {
+			isa = PBXGroup;
+			children = (
+				8418F2051B67E25C008A8150 /* campFire01.gif */,
+				8418F2061B67E25C008A8150 /* campFire02.gif */,
+				8418F2071B67E25C008A8150 /* campFire03.gif */,
+				8418F2081B67E25C008A8150 /* campFire04.gif */,
+				8418F2091B67E25C008A8150 /* campFire05.gif */,
+				8418F20A1B67E25C008A8150 /* campFire06.gif */,
+				8418F20B1B67E25C008A8150 /* campFire07.gif */,
+				8418F20C1B67E25C008A8150 /* campFire08.gif */,
+				8418F20D1B67E25C008A8150 /* campFire09.gif */,
+				8418F20E1B67E25C008A8150 /* campFire10.gif */,
+				8418F20F1B67E25C008A8150 /* campFire11.gif */,
+				8418F2101B67E25C008A8150 /* campFire12.gif */,
+				8418F2111B67E25C008A8150 /* campFire13.gif */,
+				8418F2121B67E25C008A8150 /* campFire14.gif */,
+				8418F2131B67E25C008A8150 /* campFire15.gif */,
+				8418F2141B67E25C008A8150 /* campFire16.gif */,
+				8418F2151B67E25C008A8150 /* campFire17.gif */,
+			);
+			name = FireImage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +267,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8418F21C1B67E25C008A8150 /* campFire07.gif in Resources */,
+				8418F2171B67E25C008A8150 /* campFire02.gif in Resources */,
+				8418F21E1B67E25C008A8150 /* campFire09.gif in Resources */,
+				8418F2231B67E25C008A8150 /* campFire14.gif in Resources */,
 				8418F1EA1B67E1AD008A8150 /* Main.storyboard in Resources */,
+				8418F2261B67E25C008A8150 /* campFire17.gif in Resources */,
+				8418F2181B67E25C008A8150 /* campFire03.gif in Resources */,
 				8418F1EF1B67E1AD008A8150 /* LaunchScreen.xib in Resources */,
+				8418F2241B67E25C008A8150 /* campFire15.gif in Resources */,
+				8418F2161B67E25C008A8150 /* campFire01.gif in Resources */,
+				8418F2191B67E25C008A8150 /* campFire04.gif in Resources */,
+				8470CADF1B6B2B5800B9E526 /* campfire.mp3 in Resources */,
+				8418F21F1B67E25C008A8150 /* campFire10.gif in Resources */,
+				84073C2F1B6A57EC00B00859 /* 11111.m4a in Resources */,
+				8418F21A1B67E25C008A8150 /* campFire05.gif in Resources */,
+				8418F2211B67E25C008A8150 /* campFire12.gif in Resources */,
+				8418F2251B67E25C008A8150 /* campFire16.gif in Resources */,
+				8418F21D1B67E25C008A8150 /* campFire08.gif in Resources */,
+				8418F2201B67E25C008A8150 /* campFire11.gif in Resources */,
+				8418F2221B67E25C008A8150 /* campFire13.gif in Resources */,
+				840B70E51B6B96A4007A05EE /* NgonLuaCaoNguyen.mp3 in Resources */,
 				8418F1EC1B67E1AD008A8150 /* Images.xcassets in Resources */,
+				8418F21B1B67E25C008A8150 /* campFire06.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +504,7 @@
 				8418F2001B67E1AE008A8150 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8418F2011B67E1AE008A8150 /* Build configuration list for PBXNativeTarget "BurnFireTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +513,7 @@
 				8418F2031B67E1AE008A8150 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
